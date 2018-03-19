@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "devDependencies": {
+    "prettier": "^1.11.1",
+    "prettier-plugin-elm": "^0.1.3"
+  }
+}
